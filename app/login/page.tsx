@@ -142,9 +142,10 @@ shadow-2xl
           </h1>
 
           <p className="
-          text-gray-500
-          mt-3
-          ">
+text-gray-600
+mt-3
+leading-relaxed
+">
             Predice los resultados,
             compite con tu familia
             y conquista el ranking.
@@ -153,50 +154,60 @@ shadow-2xl
         </div>
 
         <input
+  type="email"
+  autoCorrect="off"
+  autoCapitalize="none"
+  spellCheck={false}
+  className="
+  w-full
+  p-4
+  border-2
+  border-gray-200
+  rounded-2xl
+  mb-4
+  bg-white
+  text-[#041B5E]
+  placeholder:text-gray-400
+  focus:outline-none
+  focus:border-[#0DB14B]
+  transition-all
+  "
+  placeholder="Correo electrónico"
+  value={email}
+  onChange={(e)=>
+    setEmail(
+      e.target.value
+    )
+  }
+/>
 
-          className="
-          w-full
-          p-4
-          border
-          rounded-2xl
-          mb-4
-          "
-
-          placeholder="Correo electrónico"
-
-          value={email}
-
-          onChange={(e)=>
-          setEmail(
-            e.target.value
-          )
-          }
-
-        />
-
-        <input
-
-          type="password"
-
-          className="
-          w-full
-          p-4
-          border
-          rounded-2xl
-          mb-6
-          "
-
-          placeholder="Contraseña"
-
-          value={password}
-
-          onChange={(e)=>
-          setPassword(
-            e.target.value
-          )
-          }
-
-        />
+<input
+  type="password"
+  autoCorrect="off"
+  autoCapitalize="none"
+  spellCheck={false}
+  className="
+  w-full
+  p-4
+  border-2
+  border-gray-200
+  rounded-2xl
+  mb-6
+  bg-white
+  text-[#041B5E]
+  placeholder:text-gray-400
+  focus:outline-none
+  focus:border-[#0DB14B]
+  transition-all
+  "
+  placeholder="Contraseña"
+  value={password}
+  onChange={(e)=>
+    setPassword(
+      e.target.value
+    )
+  }
+/>
 
         <button
 
