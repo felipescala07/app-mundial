@@ -60,11 +60,12 @@ if(!user){
 return;
 }
 
-const foundUser =
 
+const foundUser =
 await getUserByEmail(
 user.email!
 );
+
 
 setUserData(
 foundUser

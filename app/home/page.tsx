@@ -43,10 +43,7 @@ await getUserByEmail(
 firebaseUser.email
 );
 
-console.log(
-"USER DATA:",
-userData
-);
+
 
 setUser(
 userData

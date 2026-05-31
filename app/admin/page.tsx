@@ -272,15 +272,25 @@ mb-8
 
               <input
 
-              placeholder="0"
+placeholder="0"
 
-              className="
-              w-20
-              h-20
-              border
-              rounded-2xl
-              text-center
-              "
+inputMode="numeric"
+
+className="
+w-20
+h-20
+border-2
+border-gray-300
+rounded-2xl
+text-center
+bg-white
+text-[#041B5E]
+font-bold
+text-2xl
+placeholder:text-gray-400
+focus:outline-none
+focus:border-[#0DB14B]
+"
 
               onChange={(e)=>
 
@@ -352,13 +362,16 @@ mb-8
             )
             }
 
-            className="
-            mt-6
-            bg-blue-600
-            text-white
-            p-4
-            rounded-2xl
-            "
+           className="
+mt-6
+w-full
+bg-[#0DB14B]
+text-white
+p-4
+rounded-2xl
+font-bold
+shadow-lg
+"
 
             >
 
