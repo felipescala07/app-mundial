@@ -154,29 +154,22 @@ alert(
 );
 
 };
-const isLocked=(
+const isLocked = (match:any) => {
 
-match:any
+  if (!match.predictionClose) {
+    return false;
+  }
 
-)=>{
+  const now = new Date();
+  const closeDate = new Date(match.predictionClose);
 
-const now=
-new Date();
-
-const closeDate=
-new Date(
-`${match.date}T${match.close}:00`
-);
-
-return now>
-closeDate;
+  return now > closeDate;
 
 };
 
-    return(
+return(
 
 <AuthGuard>
-
 <>
 
         <main className="
