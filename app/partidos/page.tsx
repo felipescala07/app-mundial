@@ -160,7 +160,11 @@ export default function PartidosPage() {
 
                 <p className="text-sm mt-2 text-red-500">
   🔒 Predicciones hasta:
-  31/05/2026 11:59 PM
+  {" "}
+
+{new Date(
+match.predictionClose
+).toLocaleString("es-CO")}
 </p>
 
                 {result ? (

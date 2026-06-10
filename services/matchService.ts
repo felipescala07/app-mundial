@@ -3,18 +3,18 @@ export const matches = [
 {
 id:1,
 
-home:"Noruega",
-away:"Suecia",
+home:"México",
+away:"Sudáfrica",
 
-homeFlag:"🇳🇴",
-awayFlag:"🇸🇪",
+homeFlag:"🇲🇽",
+awayFlag:"🇿🇦",
 
-date:"2026-06-01",
+date:"2026-06-11",
 
-time:"12:00",
+time:"14:00",
 
 predictionClose:
-"2026-05-31T23:59:59",
+"2026-06-10T23:59:59",
 
 status:"open",
 
@@ -25,62 +25,18 @@ result:null
 {
 id:2,
 
-home:"Turquía",
-away:"Macedonia del Norte",
+home:"Corea del Sur",
+away:"República Checa",
 
-homeFlag:"🇹🇷",
-awayFlag:"🇲🇰",
+homeFlag:"🇰🇷",
+awayFlag:"🇨🇿",
 
-date:"2026-06-01",
+date:"2026-06-11",
 
-time:"12:30",
-
-predictionClose:
-"2026-05-31T23:59:59",
-
-status:"open",
-
-result:null
-
-},
-
-{
-id:3,
-
-home:"Colombia",
-away:"Costa Rica",
-
-homeFlag:"🇨🇴",
-awayFlag:"🇨🇷",
-
-date:"2026-06-01",
-
-time:"18:00",
+time:"21:00",
 
 predictionClose:
-"2026-05-31T23:59:59",
-
-status:"open",
-
-result:null
-
-},
-
-{
-id:4,
-
-home:"Canadá",
-away:"Uzbekistán",
-
-homeFlag:"🇨🇦",
-awayFlag:"🇺🇿",
-
-date:"2026-06-01",
-
-time:"20:00",
-
-predictionClose:
-"2026-05-31T23:59:59",
+"2026-06-10T23:59:59",
 
 status:"open",
 
