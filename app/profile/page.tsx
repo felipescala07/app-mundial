@@ -271,7 +271,17 @@ rounded-3xl
 
 Tipo:
 
-{prediction.type}
+{" "}
+
+{
+prediction.type === "score"
+? "Marcador exacto"
+
+: prediction.type === "winner"
+? "Ganador"
+
+: "Empate"
+}
 
 </div>
 
@@ -283,13 +293,15 @@ Ganador:
 
 {" "}
 
+<strong>
 {prediction.winner}
+</strong>
 
 </div>
 
 )}
 
-{prediction.homeScore && (
+{prediction.type === "score" && (
 
 <div className="text-sm">
 
@@ -297,11 +309,15 @@ Marcador:
 
 {" "}
 
+<strong>
+
 {prediction.homeScore}
 
 -
 
 {prediction.awayScore}
+
+</strong>
 
 </div>
 
