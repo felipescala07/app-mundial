@@ -429,12 +429,12 @@ away:"Jordania",
 homeFlag:"🇦🇹",
 awayFlag:"🇯🇴",
 
-date:"2026-06-17",
+date:"2026-06-16",
 
 time:"23:00",
 
 predictionClose:
-"2026-06-16T23:59:59",
+"2026-06-15T23:59:59",
 
 status:"open",
 
