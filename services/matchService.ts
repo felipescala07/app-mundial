@@ -896,7 +896,7 @@ date:"2026-06-22",
 time:"12:00",
 
 predictionClose:
-"2026-06-21T23:59:59",
+"2026-06-22T23:59:59",
 
 status:"open",
 
@@ -918,7 +918,7 @@ date:"2026-06-22",
 time:"16:00",
 
 predictionClose:
-"2026-06-21T23:59:59",
+"2026-06-22T23:59:59",
 
 status:"open",
 
@@ -940,7 +940,7 @@ date:"2026-06-22",
 time:"19:00",
 
 predictionClose:
-"2026-06-21T23:59:59",
+"2026-06-22T23:59:59",
 
 status:"open",
 
@@ -962,12 +962,221 @@ date:"2026-06-22",
 time:"22:00",
 
 predictionClose:
-"2026-06-21T23:59:59",
+"2026-06-22T23:59:59",
 
 status:"open",
 
 result:null
 
 }
+,
+
+{
+id:45,
+home:"Portugal",
+away:"Uzbekistán",
+homeFlag:"🇵🇹",
+awayFlag:"🇺🇿",
+date:"2026-06-23",
+time:"12:00",
+predictionClose:"2026-06-22T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:46,
+home:"Inglaterra",
+away:"Ghana",
+homeFlag:"🏴",
+awayFlag:"🇬🇭",
+date:"2026-06-23",
+time:"15:00",
+predictionClose:"2026-06-22T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:47,
+home:"Panamá",
+away:"Croacia",
+homeFlag:"🇵🇦",
+awayFlag:"🇭🇷",
+date:"2026-06-23",
+time:"18:00",
+predictionClose:"2026-06-22T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:48,
+home:"Colombia",
+away:"RD Congo",
+homeFlag:"🇨🇴",
+awayFlag:"🇨🇩",
+date:"2026-06-23",
+time:"21:00",
+predictionClose:"2026-06-22T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:49,
+home:"Suiza",
+away:"Canadá",
+homeFlag:"🇨🇭",
+awayFlag:"🇨🇦",
+date:"2026-06-24",
+time:"14:00",
+predictionClose:"2026-06-23T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:50,
+home:"Bosnia y Herzegovina",
+away:"Qatar",
+homeFlag:"🇧🇦",
+awayFlag:"🇶🇦",
+date:"2026-06-24",
+time:"14:00",
+predictionClose:"2026-06-23T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:51,
+home:"Escocia",
+away:"Brasil",
+homeFlag:"🏴",
+awayFlag:"🇧🇷",
+date:"2026-06-24",
+time:"17:00",
+predictionClose:"2026-06-23T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:52,
+home:"Marruecos",
+away:"Haití",
+homeFlag:"🇲🇦",
+awayFlag:"🇭🇹",
+date:"2026-06-24",
+time:"17:00",
+predictionClose:"2026-06-23T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:53,
+home:"República Checa",
+away:"México",
+homeFlag:"🇨🇿",
+awayFlag:"🇲🇽",
+date:"2026-06-24",
+time:"20:00",
+predictionClose:"2026-06-23T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:54,
+home:"Sudáfrica",
+away:"Corea del Sur",
+homeFlag:"🇿🇦",
+awayFlag:"🇰🇷",
+date:"2026-06-24",
+time:"20:00",
+predictionClose:"2026-06-23T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:55,
+home:"Ecuador",
+away:"Alemania",
+homeFlag:"🇪🇨",
+awayFlag:"🇩🇪",
+date:"2026-06-25",
+time:"15:00",
+predictionClose:"2026-06-24T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:56,
+home:"Curazao",
+away:"Costa de Marfil",
+homeFlag:"🇨🇼",
+awayFlag:"🇨🇮",
+date:"2026-06-25",
+time:"15:00",
+predictionClose:"2026-06-24T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:57,
+home:"Túnez",
+away:"Países Bajos",
+homeFlag:"🇹🇳",
+awayFlag:"🇳🇱",
+date:"2026-06-25",
+time:"18:00",
+predictionClose:"2026-06-24T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:58,
+home:"Japón",
+away:"Suecia",
+homeFlag:"🇯🇵",
+awayFlag:"🇸🇪",
+date:"2026-06-25",
+time:"18:00",
+predictionClose:"2026-06-24T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:59,
+home:"Turquía",
+away:"Estados Unidos",
+homeFlag:"🇹🇷",
+awayFlag:"🇺🇸",
+date:"2026-06-25",
+time:"21:00",
+predictionClose:"2026-06-24T23:59:59",
+status:"open",
+result:null
+},
+
+{
+id:60,
+home:"Paraguay",
+away:"Australia",
+homeFlag:"🇵🇾",
+awayFlag:"🇦🇺",
+date:"2026-06-25",
+time:"21:00",
+predictionClose:"2026-06-24T23:59:59",
+status:"open",
+result:null
+},
 
 ];
