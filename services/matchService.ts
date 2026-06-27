@@ -1265,7 +1265,7 @@ homeFlag:"🇵🇦",
 awayFlag:"🏴",
 date:"2026-06-27",
 time:"16:00",
-predictionClose:"2026-06-26T23:59:59",
+predictionClose:"2026-06-27T23:59:59",
 status:"open",
 result:null
 },
@@ -1278,7 +1278,7 @@ homeFlag:"🇭🇷",
 awayFlag:"🇬🇭",
 date:"2026-06-27",
 time:"16:00",
-predictionClose:"2026-06-26T23:59:59",
+predictionClose:"2026-06-27T23:59:59",
 status:"open",
 result:null
 },
@@ -1291,7 +1291,7 @@ homeFlag:"🇨🇴",
 awayFlag:"🇵🇹",
 date:"2026-06-27",
 time:"18:30",
-predictionClose:"2026-06-26T23:59:59",
+predictionClose:"2026-06-27T23:59:59",
 status:"open",
 result:null
 },
@@ -1304,7 +1304,7 @@ homeFlag:"🇨🇩",
 awayFlag:"🇺🇿",
 date:"2026-06-27",
 time:"18:30",
-predictionClose:"2026-06-26T23:59:59",
+predictionClose:"2026-06-27T23:59:59",
 status:"open",
 result:null
 },
@@ -1317,7 +1317,7 @@ homeFlag:"🇯🇴",
 awayFlag:"🇦🇷",
 date:"2026-06-27",
 time:"21:00",
-predictionClose:"2026-06-26T23:59:59",
+predictionClose:"2026-06-27T23:59:59",
 status:"open",
 result:null
 },
@@ -1330,9 +1330,30 @@ homeFlag:"🇩🇿",
 awayFlag:"🇦🇹",
 date:"2026-06-27",
 time:"21:00",
-predictionClose:"2026-06-26T23:59:59",
+predictionClose:"2026-06-27T23:59:59",
 status:"open",
 result:null
 }
+,
+{
+id:73,
 
+home:"Sudáfrica",
+away:"Canadá",
+
+homeFlag:"🇿🇦",
+awayFlag:"🇨🇦",
+
+date:"2026-06-28",
+
+time:"14:00",
+
+predictionClose:
+"2026-06-27T23:59:59",
+
+status:"open",
+
+result:null
+
+}
 ];
