@@ -1706,7 +1706,7 @@ date:"2026-07-04",
 time:"12:00",
 
 predictionClose:
-"2026-07-03T23:59:59",
+"2026-07-04T23:59:59",
 
 status:"open",
 
@@ -1728,7 +1728,52 @@ date:"2026-07-04",
 time:"16:00",
 
 predictionClose:
-"2026-07-03T23:59:59",
+"2026-07-04T23:59:59",
+
+status:"open",
+
+result:null
+
+}
+,
+
+{
+id:91,
+
+home:"Brasil",
+away:"Noruega",
+
+homeFlag:"🇧🇷",
+awayFlag:"🇳🇴",
+
+date:"2026-07-05",
+
+time:"15:00",
+
+predictionClose:
+"2026-07-04T23:59:59",
+
+status:"open",
+
+result:null
+
+},
+
+{
+id:92,
+
+home:"México",
+away:"Inglaterra",
+
+homeFlag:"🇲🇽",
+awayFlag:"🏴",
+
+date:"2026-07-05",
+
+time:"19:00",
+
+predictionClose:
+"2026-07-04T23:59:59",
 
 status:"open",
 
