@@ -1959,4 +1959,27 @@ result:null
 
 }
 
+,
+
+{
+id:101,
+
+home:"Francia",
+away:"España",
+
+homeFlag:"🇫🇷",
+awayFlag:"🇪🇸",
+
+date:"2026-07-14",
+
+time:"14:00",
+
+predictionClose:
+"2026-07-13T23:59:59",
+
+status:"open",
+
+result:null
+
+}
 ];
