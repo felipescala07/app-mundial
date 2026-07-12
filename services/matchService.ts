@@ -1982,4 +1982,27 @@ status:"open",
 result:null
 
 }
+
+,
+{
+id:102,
+
+home:"Inglaterra",
+away:"Argentina",
+
+homeFlag:"🏴",
+awayFlag:"🇦🇷",
+
+date:"2026-07-15",
+
+time:"14:00",
+
+predictionClose:
+"2026-07-14T23:59:59",
+
+status:"open",
+
+result:null
+
+}
 ];
